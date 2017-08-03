@@ -1,8 +1,5 @@
 
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
 
 ##Getting and cleaning Data - Course project
         This project consists of a script file named my_script.R. It is responsible for 
